@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 8259a759c27a24f1f860b266adb3b4f2
+timeCreated: 1502354145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Project Bluebook UI Spritesheet 2.0 TEST_0
+    21300002: Project Bluebook UI Spritesheet 2.0 TEST_1
+    21300004: Project Bluebook UI Spritesheet 2.0 TEST_2
+    21300006: Project Bluebook UI Spritesheet 2.0 TEST_3
+    21300008: Project Bluebook UI Spritesheet 2.0 TEST_4
+    21300010: Project Bluebook UI Spritesheet 2.0 TEST_5
+    21300012: Project Bluebook UI Spritesheet 2.0 TEST_6
+    21300014: Project Bluebook UI Spritesheet 2.0 TEST_7
+    21300016: Project Bluebook UI Spritesheet 2.0 TEST_8
+    21300018: Project Bluebook UI Spritesheet 2.0 TEST_9
+    21300020: Project Bluebook UI Spritesheet 2.0 TEST_10
+    21300022: Project Bluebook UI Spritesheet 2.0 TEST_11
+    21300024: Project Bluebook UI Spritesheet 2.0 TEST_12
+    21300026: Project Bluebook UI Spritesheet 2.0 TEST_13
+    21300028: Project Bluebook UI Spritesheet 2.0 TEST_14
+    21300030: Project Bluebook UI Spritesheet 2.0 TEST_15
+    21300032: Project Bluebook UI Spritesheet 2.0 TEST_16
+    21300034: Project Bluebook UI Spritesheet 2.0 TEST_17
+    21300036: Project Bluebook UI Spritesheet 2.0 TEST_18
+    21300038: Project Bluebook UI Spritesheet 2.0 TEST_19
+    21300040: Project Bluebook UI Spritesheet 2.0 TEST_20
+    21300042: Project Bluebook UI Spritesheet 2.0 TEST_21
+    21300044: Project Bluebook UI Spritesheet 2.0 TEST_22
+    21300046: Project Bluebook UI Spritesheet 2.0 TEST_23
+    21300048: Project Bluebook UI Spritesheet 2.0 TEST_24
+    21300050: Project Bluebook UI Spritesheet 2.0 TEST_25
+    21300052: Project Bluebook UI Spritesheet 2.0 TEST_26
+    21300054: Project Bluebook UI Spritesheet 2.0 TEST_27
+    21300056: Project Bluebook UI Spritesheet 2.0 TEST_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 1795
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1685
+        width: 409
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1695
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_3
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1575
+        width: 394
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_4
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1577
+        width: 393
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_5
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1700
+        width: 392
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_6
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1218
+        width: 789
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1461
+        width: 409
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_8
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1473
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_9
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1460
+        width: 806
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_10
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1447
+        width: 259
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1449
+        width: 255
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1364
+        width: 802
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1257
+        width: 257
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 570
+        width: 56
+        height: 729
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 570
+        width: 56
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_16
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1073
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_17
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1127
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_18
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1174
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 902
+        width: 118
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_20
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 918
+        width: 252
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_21
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 120
+        width: 1347
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 750
+        width: 116
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_23
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 598
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_24
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 478
+        width: 54
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 395
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 110
+        width: 626
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_27
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 110
+        width: 29
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Project Bluebook UI Spritesheet 2.0 TEST_28
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 110
+        width: 27
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
