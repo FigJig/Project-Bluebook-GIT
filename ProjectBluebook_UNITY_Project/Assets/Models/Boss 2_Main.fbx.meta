@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: a5b5472117baa554fbde9f0750889a91
+timeCreated: 1504686641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bicep_Joint
+    100002: //RootNode
+    100004: Chest
+    100006: Chest_Sphere_Main1
+    100008: Elbow
+    100010: Elbow_Joint
+    100012: Elbow_Spine
+    100014: Eye15
+    100016: Forearm
+    100018: Head
+    100020: Head1
+    100022: Left_Arm
+    100024: Left_Arm_Joint
+    100026: Left_Finger_1
+    100028: Left_Finger_1A
+    100030: Left_Finger_1B
+    100032: Left_Finger_2
+    100034: Left_Finger_2A
+    100036: Left_Finger_2B
+    100038: Left_Hand
+    100040: Left_Shoulder
+    100042: Left_Shoulder_2
+    100044: Left_Thumb
+    100046: Left_Thumb_1
+    100048: Left_Thumb_2
+    100050: Main_Body
+    100052: pTorus7
+    100054: pTorus8
+    100056: Right_Finger_1
+    100058: Right_Finger_1A
+    100060: Right_Finger_1B
+    100062: Right_Finger_2
+    100064: Right_Finger_2A
+    100066: Right_Finger_2B
+    100068: Right_Hand
+    100070: Right_Shoulder
+    100072: Right_Shoulder_2
+    100074: Right_Thumb
+    100076: Right_Thumb_1
+    100078: Right_Thumb_2
+    100080: Right_Wrist
+    100082: Skeleton
+    100084: Torso_1
+    100086: Wrist
+    400000: Bicep_Joint
+    400002: //RootNode
+    400004: Chest
+    400006: Chest_Sphere_Main1
+    400008: Elbow
+    400010: Elbow_Joint
+    400012: Elbow_Spine
+    400014: Eye15
+    400016: Forearm
+    400018: Head
+    400020: Head1
+    400022: Left_Arm
+    400024: Left_Arm_Joint
+    400026: Left_Finger_1
+    400028: Left_Finger_1A
+    400030: Left_Finger_1B
+    400032: Left_Finger_2
+    400034: Left_Finger_2A
+    400036: Left_Finger_2B
+    400038: Left_Hand
+    400040: Left_Shoulder
+    400042: Left_Shoulder_2
+    400044: Left_Thumb
+    400046: Left_Thumb_1
+    400048: Left_Thumb_2
+    400050: Main_Body
+    400052: pTorus7
+    400054: pTorus8
+    400056: Right_Finger_1
+    400058: Right_Finger_1A
+    400060: Right_Finger_1B
+    400062: Right_Finger_2
+    400064: Right_Finger_2A
+    400066: Right_Finger_2B
+    400068: Right_Hand
+    400070: Right_Shoulder
+    400072: Right_Shoulder_2
+    400074: Right_Thumb
+    400076: Right_Thumb_1
+    400078: Right_Thumb_2
+    400080: Right_Wrist
+    400082: Skeleton
+    400084: Torso_1
+    400086: Wrist
+    2300000: pTorus7
+    3300000: pTorus7
+    4300000: Main_Body
+    4300002: Left_Arm
+    4300004: Left_Arm_Joint
+    4300006: pTorus8
+    4300008: Chest_Sphere_Main1
+    4300010: Head1
+    4300012: Eye15
+    4300014: pTorus7
+    9500000: //RootNode
+    13700000: Chest_Sphere_Main1
+    13700002: Eye15
+    13700004: Head1
+    13700006: Left_Arm
+    13700008: Left_Arm_Joint
+    13700010: Main_Body
+    13700012: pTorus8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

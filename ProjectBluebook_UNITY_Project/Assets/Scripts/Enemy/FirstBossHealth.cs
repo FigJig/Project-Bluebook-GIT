@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FirstBossHealth : MonoBehaviour {
 
+    public GameObject firstPhaseBossModel;
     public int startingHealth;
     public int currentHealth;
 
@@ -20,7 +21,7 @@ public class FirstBossHealth : MonoBehaviour {
 
     void Start () {
         currentHealth = startingHealth;
-
+        Destroy(firstPhaseBossModel);
         isDead = false;
         isSinking = false;
 	}
