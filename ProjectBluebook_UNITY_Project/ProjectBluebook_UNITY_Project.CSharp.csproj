@@ -147,9 +147,11 @@
     <Compile Include="Assets\Scripts\CardinalDirectionControl.cs" />
     <Compile Include="Assets\Scripts\CRT.cs" />
     <Compile Include="Assets\Scripts\CRTEffect.cs" />
+    <Compile Include="Assets\Scripts\DestroyGameObject.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemySpin.cs" />
     <Compile Include="Assets\Scripts\Enemy\FirstBossHealth.cs" />
     <Compile Include="Assets\Scripts\Enemy\ForceFieldControl.cs" />
+    <Compile Include="Assets\Scripts\Enemy\InitialPhase.cs" />
     <Compile Include="Assets\Scripts\Enemy\SinMovement.cs" />
     <Compile Include="Assets\Scripts\Enemy\WeakPointHealth.cs" />
     <Compile Include="Assets\Scripts\FPSDisplay.cs" />

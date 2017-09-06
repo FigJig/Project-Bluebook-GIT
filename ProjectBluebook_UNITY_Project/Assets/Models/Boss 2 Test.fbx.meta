@@ -59,6 +59,7 @@ ModelImporter:
     100102: Skeleton
     100104: Torso_1
     100106: Wrist
+    100108: Triangular_Halo
     400000: //RootNode
     400002: Chest_Sphere_Main
     400004: Chest_Sphere_smol1
@@ -113,6 +114,7 @@ ModelImporter:
     400102: Skeleton
     400104: Torso_1
     400106: Wrist
+    400108: Triangular_Halo
     2300000: Chest_Sphere_Main
     2300002: Chest_Sphere_smol1
     2300004: Chest_Sphere_smol2
@@ -129,6 +131,7 @@ ModelImporter:
     2300026: pTorus6
     2300028: pTorus7
     2300030: Tubes1
+    2300032: Triangular_Halo
     3300000: Chest_Sphere_Main
     3300002: Chest_Sphere_smol1
     3300004: Chest_Sphere_smol2
@@ -145,6 +148,7 @@ ModelImporter:
     3300026: pTorus6
     3300028: pTorus7
     3300030: Tubes1
+    3300032: Triangular_Halo
     4300000: Main_Body
     4300002: Chest_Sphere_Main
     4300004: Left_Arm_Joint
@@ -163,6 +167,8 @@ ModelImporter:
     4300030: pTorus7
     4300032: pTorus8
     4300034: Chest_Sphere_Main1
+    4300036: Triangular_Halo
+    7400000: Take 001
     9500000: //RootNode
     13700000: Chest_Sphere_Main1
     13700002: Eye15
